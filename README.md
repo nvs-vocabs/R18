@@ -3,7 +3,7 @@ Argo configuration parameter names
 
 This collection is not yet available on the NVS.
 
-Current master copy can be found in: http://www.argodatamgt.org/Documentation, under 'Argo data formats', 'Argo metadata files', filea: 'Configuration parameter names, core-Argo, August 1st 2022' and 'Configuration parameter names, BGC-Argo, April 2nd 2021'
+Current master copy can be found in: http://www.argodatamgt.org/Documentation, under 'Argo data formats', 'Argo metadata files', files: 'Configuration parameter names, core-Argo, August 1st 2022' and 'Configuration parameter names, BGC-Argo, April 2nd 2021'
 
 Excel files linked here: 
 - http://www.argodatamgt.org/content/download/33813/231610/file/Core_Argo_ConfigurationParameterNames_20220801.xlsx

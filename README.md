@@ -1,10 +1,11 @@
 # R18
-Argo configuration parameter names
+Argo configuration parameter names (core and BGC)
 
-This collection is not yet available on the NVS.
+This vocabulary is available from the NERC Vocabulary Server (NVS) VocPrez site http://vocab.nerc.ac.uk/:
 
-Current master copy can be found in: http://www.argodatamgt.org/Documentation, under 'Argo data formats', 'Argo metadata files', files: 'Configuration parameter names, core-Argo, August 1st 2022' and 'Configuration parameter names, BGC-Argo, April 2nd 2021'
+* [R18 collection](http://vocab.nerc.ac.uk/collection/R18/current/)
 
-Excel files linked here: 
-- http://www.argodatamgt.org/content/download/33813/231610/file/Core_Argo_ConfigurationParameterNames_20220801.xlsx
-- http://www.argodatamgt.org/content/download/28856/196159/file/Bio_Argo_Configuration_Parameter_Names_V1.0_20210402.xlsx
+* [R18 VocPrez search result](https://vocab.nerc.ac.uk/search_nvs/R18/)
+
+Comments, requests and suggestions can be made using [regular issues](https://github.com/nvs-vocabs/R18/issues/new) in this repository or by email to vocab.services(-at-bodc.ac.uk).
+
